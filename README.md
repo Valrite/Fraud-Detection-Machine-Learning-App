@@ -9,5 +9,3 @@ Due to size limitations, the dataset is not included in this repository.
 Download here:
 👉 https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 
-After downloading:
-Place it in /data or the root directory.
